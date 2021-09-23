@@ -1,7 +1,7 @@
 # ScratchNN
 A neural network written from scratch to learn about C++ classes and neural network architecture
 
-Started in the Spring Break of my junior year of high school - right as corona hit
+Started in the Spring Break of my junior year of high school - right as corona hit (March 2020 in case you forgot)
 
 ## How to use
 
